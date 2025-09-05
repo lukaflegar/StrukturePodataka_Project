@@ -1,0 +1,41 @@
+# Build results
+Debug/
+Release/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.res
+*.pch
+*.tmp
+*.temp
+
+# Libraries
+*.lib
+*.a
+
+# Other
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
